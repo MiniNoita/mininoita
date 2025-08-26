@@ -6,7 +6,7 @@ I have played videogames almost my whole life. First I wanted to be graphic desi
 
 I discovered ✨*coding*✨
 
-And so my burning passion for coding started a new chapter... still in progress
+And so my burning passion for coding started a new chapter in my life... 
 
 -🍂 Now learning: Python, Unity, frontend
 
