@@ -8,7 +8,7 @@ I discovered ✨*coding*✨
 
 And so my burning passion for coding started a new chapter in my life... 
 
--🍂 Now learning: Python, Unity, frontend
+-🍂 Now learning: Python, Unity, frontend (Angular), MySQL
 
 <!--
 **MiniNoita/mininoita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
