@@ -8,8 +8,8 @@ I discovered ✨*coding*✨
 
 And so my burning passion for coding started a new chapter in my life... 
 
--🍂 Now learning: Python, Unity, frontend (Angular), MySQL
--✨ School Project: Frontend app [404 IQ Not Found](https://404iqnotfound.netlify.app/)
+- 🍂 Now learning: Python, Unity, frontend (Angular), MySQL
+- ✨ School Project: Frontend app [404 IQ Not Found](https://404iqnotfound.netlify.app/)
     - [Repository](https://github.com/jamktiko/404_iq_not_found)
 
 <!--
