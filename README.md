@@ -1,6 +1,7 @@
 ## 🌻Hello there!🌻
 
-I'm a second year student at Jamk learning how to program good code(help).
+I'm a second year student at Jamk _(Jamk University of Applied Sciences
+)_ learning how to program good code(help).
 
 I have played videogames almost my whole life. First I wanted to design characters and all that for videogames. That got me wondering... how do you put the character IN the game?
 
