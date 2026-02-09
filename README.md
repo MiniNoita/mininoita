@@ -1,9 +1,10 @@
 ## 🌻Hello there!🌻
 
 I'm a second year student at Jamk _(Jamk University of Applied Sciences
-)_ learning how to be good programmer.
+)_ learning how to be good programmer. I aim to be fullstack developer, more towards backend, SQL and NoSQL✨
 
-I'm working towards being fullstack developer, more interested in backend, SQL and NoSQL✨
+I discovered coding trough gaming. I wanted to make art for games, then I started to wonder... How do you MAKE games?👾
+Game development is my dream and passion.
 
 - 🍂 Now learning: Backend, frontend (Angular), MongoDB + NoSQL
 - 🌙 Competence:
