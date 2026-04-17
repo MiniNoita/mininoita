@@ -6,7 +6,7 @@ I'm Minttu, a second year student at Jamk _(Jamk University of Applied Sciences
 I discovered coding trough gaming. I wanted to make art for games, then I started to wonder... How do you MAKE games?👾
 Game development is my dream and passion.
 
-Right now I'm focusing on school and making my own projects.
+## ✨Skills and Projects✨
 
 - 🍂 Now learning: Backend, frontend (Angular), MongoDB + NoSQL
 - 🌙 Competence:
