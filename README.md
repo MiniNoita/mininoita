@@ -8,7 +8,7 @@ Game development is my dream and passion.
 
 ## ✨Skills✨
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,npm,html,css,angular,docker,express,gamemakerstudio,github,git,godot,mongodb,mysql,postman,svelte,vscode)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,npm,html,css,angular,docker,express,gamemakerstudio,github,git,godot,mongodb,mysql,postman,svelte,vscode)](https://skillicons.dev)
 
 ## ✨Projects✨
  
